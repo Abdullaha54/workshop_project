@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DennisTest
 {
-<<<<<<< HEAD
     internal class Enemy
     {
         public void enemy()
