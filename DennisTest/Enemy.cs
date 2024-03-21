@@ -11,7 +11,7 @@ namespace DennisTest
     {
         public void enemy()
         {
-            int enemyHealth;
+            int enemyHealth = 20;
             string enemyName;
             bool isAlive;
 
