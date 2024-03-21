@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace DennisTest
 {
+<<<<<<< HEAD
     internal class Enemy
     {
         public void enemy()
         {
+            int enemyHealth;
+            string enemyName;
+            bool isAlive;
+
             Console.WriteLine("Hello Enemy!");
         }
     }
